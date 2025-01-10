@@ -41,3 +41,9 @@ Flask-Login-App/ │
 /	GET	Redirects to /login
 /login	GET/POST	Login Form
 /signup	GET/POST	Signup Form
+
+![Screenshot 2025-01-10 223829](https://github.com/user-attachments/assets/141a54c1-f353-4520-a324-77ec522905df)
+![Screenshot 2025-01-10 223839](https://github.com/user-attachments/assets/e259a3b5-b963-447e-a4bb-cd47695da2df)
+
+
+
